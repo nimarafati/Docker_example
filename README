@@ -1,0 +1,3 @@
+docker build -t nimarafati/shiny-NNN:v1.0 -t nimarafati/shiny-NNN:latest . 
+docker push nimarafati/shiny-NNN:v1.0
+docker push nimarafati/shiny-NNN:latest
